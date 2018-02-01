@@ -1,0 +1,8 @@
+com:
+  itheima:
+    name: heima2
+
+#激活其它配置文件，将多个自定义文件的名称使用,隔开
+spring:
+  profiles:
+    active: a,b
